@@ -1,53 +1,34 @@
-👋 Hi, I'm Timi Lanre
-
-
-👋 About Me
-I'm a technology professional specializing in data engineering and product management. My background helps me create strong data systems while concentrating on user needs and business results.  
-What sets me apart is that I don't just build data pipelines. I build data products that address real problems and deliver measurable business value.
-
-
-🛠️ Technical Expertise
-Data Engineering Stack
+I'm a technology professional specializing in data engineering and analytics. My background enables me to build robust data systems while focusing on business outcomes and user needs. What sets me apart is that I don't just build data pipelines—I build data products that solve real problems and deliver measurable business value.
+Technical Expertise
+Data Engineering & Analytics Stack:
 technical_skills = {
     "languages": ["Python", "SQL", "Bash"],
-    "cloud": ["AWS (S3, EC2, RDS, Lambda, Redshift)", "Snowflake"],
-    "data_tools": ["Apache Spark", "Kafka", "dbt", "Airflow"],
-    "databases": ["PostgreSQL", "MongoDB", "Redis"],
-    "infrastructure": ["Docker", "Kubernetes", "Terraform"],
+    "cloud": ["AWS (S3, Glue, Lambda, Redshift)", "Snowflake"],
+    "data_tools": ["Apache Spark", "dbt", "Airflow", "Kafka"],
+    "databases": ["PostgreSQL", "Vertica", "Redshift", "MongoDB"],
+    "infrastructure": ["Docker", "Terraform"],
     "analytics": ["Tableau", "Looker", "Python (Pandas, NumPy)"]
 }
+Analytics & Business Intelligence:
 
+Metrics frameworks: AARRR, HEART, North Star Metrics
+Data modeling and dimensional design
+ETL/ELT pipeline development and optimization
+Self-service analytics and data democratization
+Stakeholder communication and requirements gathering
 
-Product Management Toolkit
-Analytics Frameworks: AARRR, HEART, North Star Metrics
-Research Methods: User interviews, A/B testing, cohort analysis
-Strategy Tools: Jobs-to-be-Done, competitive analysis, market sizing
-Documentation: PRDs, technical specifications, roadmaps
+What I'm Looking For
+I'm seeking opportunities where I can leverage both technical expertise and business acumen:
 
+Analytics Engineer roles building scalable data models and enabling self-service analytics
+Senior Data Engineer positions focusing on data architecture and cross-functional collaboration
+Business Intelligence Manager roles leading teams to deliver data-driven insights
 
+My ideal environment includes companies with complex analytics needs, data-driven decision-making cultures, or teams where technical excellence and business strategy intersect.
+Let's Connect
+I'm always interested in discussing data engineering challenges, analytics architecture, or the intersection of technical and business problems. Reach out for:
 
-🎯 What I'm Looking For
-I'm looking for opportunities where I can use both my technical skills and product thinking:  
-
-Senior Data Engineer roles that have an impact on products and involve working with different teams.  
-Technical Product Manager positions that focus on data products and analytics.  
-Data Product Manager roles that create user-friendly analytics experiences.  
-
-My ideal environment includes companies developing data products, B2B SaaS with complex analytics needs, or teams where technical skills and product strategy meet.
-
-
-
-🤝 Let's Connect
-I'm always interested in discussing data engineering challenges, product strategy, or the overlap of technical and business issues.  
-Reach out for:  
-
-- Technical architecture discussions  
-- Product strategy conversations  
-- Data engineering mentorship  
-- Collaboration opportunities  
-
-
-
-💡 "The best data engineers understand the business. The best product managers understand the technology."
-I believe in building at the intersection of both.
-⭐ Star this repo if you're interested in data-driven product development!
+Technical architecture discussions
+Analytics strategy conversations
+Data engineering mentorship
+Collaboration opportunities

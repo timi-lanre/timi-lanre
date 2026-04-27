@@ -1,34 +1,26 @@
-I'm a technology professional specializing in data engineering and analytics. My background enables me to build robust data systems while focusing on business outcomes and user needs. What sets me apart is that I don't just build data pipelines—I build data products that solve real problems and deliver measurable business value.
-Technical Expertise
-Data Engineering & Analytics Stack:
-technical_skills = {
-    "languages": ["Python", "SQL", "Bash"],
-    "cloud": ["AWS (S3, Glue, Lambda, Redshift)", "Snowflake"],
-    "data_tools": ["Apache Spark", "dbt", "Airflow", "Kafka"],
-    "databases": ["PostgreSQL", "Vertica", "Redshift", "MongoDB"],
-    "infrastructure": ["Docker", "Terraform"],
-    "analytics": ["Tableau", "Looker", "Python (Pandas, NumPy)"]
-}
-Analytics & Business Intelligence:
+Timi Olanrewaju — Data Engineer & Analytics Professional
+I build data systems that deliver real business outcomes. My background spans the full analytics stack, from architecting cloud data pipelines to owning executive-level MRR/ARR reporting, and I operate comfortably at the intersection of engineering rigor and business strategy.
 
-Metrics frameworks: AARRR, HEART, North Star Metrics
-Data modeling and dimensional design
-ETL/ELT pipeline development and optimization
-Self-service analytics and data democratization
-Stakeholder communication and requirements gathering
+Technical Skills
+Languages: Python, SQL, Bash
+Cloud & Infrastructure: AWS (S3, Glue, Lambda, Redshift), Snowflake, Docker
+Data Engineering: Apache Spark, dbt, Airflow, ETL/ELT pipeline development
+Databases: PostgreSQL, Vertica, Redshift, MongoDB, Databricks
+BI & Analytics: Tableau, Looker, Domo, Power BI, Pandas, NumPy
+
+What I Do Well
+
+Designing and building scalable data models using dimensional design principles
+Building and owning end-to-end pipelines from raw source to executive dashboard
+Translating ambiguous business questions into clean, reliable metrics
+Enabling self-service analytics so stakeholders can move without waiting on data teams
+Communicating clearly with both technical and non-technical audiences
+
 
 What I'm Looking For
-I'm seeking opportunities where I can leverage both technical expertise and business acumen:
+I'm open to roles in analytics engineering, senior data engineering, and business intelligence, particularly at companies where data is treated as a product and not an afterthought. My sweet spot is teams that value both technical depth and business context, where the work has clear stakeholder impact.
 
-Analytics Engineer roles building scalable data models and enabling self-service analytics
-Senior Data Engineer positions focusing on data architecture and cross-functional collaboration
-Business Intelligence Manager roles leading teams to deliver data-driven insights
-
-My ideal environment includes companies with complex analytics needs, data-driven decision-making cultures, or teams where technical excellence and business strategy intersect.
 Let's Connect
-I'm always interested in discussing data engineering challenges, analytics architecture, or the intersection of technical and business problems. Reach out for:
-
-Technical architecture discussions
-Analytics strategy conversations
-Data engineering mentorship
-Collaboration opportunities
+Open to conversations about data architecture, analytics strategy, or anything at the intersection of engineering and business problems.
+📧 timilanre@gmail.com
+🔗 linkedin.com/in/timi-o-512bb8b8

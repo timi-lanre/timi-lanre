@@ -1,4 +1,5 @@
-Timi Olanrewaju — Data Engineer & Analytics Professional
+Timi Olanrewaju —
+Data Engineer & Analytics Professional
 I build data systems that deliver real business outcomes. My background spans the full analytics stack, from architecting cloud data pipelines to owning executive-level MRR/ARR reporting, and I operate comfortably at the intersection of engineering rigor and business strategy.
 
 Technical Skills
